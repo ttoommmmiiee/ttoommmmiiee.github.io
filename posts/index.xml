@@ -6,59 +6,17 @@
     <description>Recent content in Posts on Tommie Blog 2022-2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Nov 2022 15:13:03 +0000</lastBuildDate><atom:link href="https://ttoommmmiiee.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Nov 2022 16:11:19 +0000</lastBuildDate><atom:link href="https://ttoommmmiiee.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testpost</title>
-      <link>https://ttoommmmiiee.github.io/posts/testpost-copy-5/</link>
-      <pubDate>Fri, 18 Nov 2022 15:13:03 +0000</pubDate>
+      <title>Welcome</title>
+      <link>https://ttoommmmiiee.github.io/posts/welcome/</link>
+      <pubDate>Fri, 18 Nov 2022 16:11:19 +0000</pubDate>
       
-      <guid>https://ttoommmmiiee.github.io/posts/testpost-copy-5/</guid>
-      <description>var = 0 </description>
-    </item>
-    
-    <item>
-      <title>Testpost</title>
-      <link>https://ttoommmmiiee.github.io/posts/testpost/</link>
-      <pubDate>Fri, 18 Nov 2022 15:13:03 +0000</pubDate>
-      
-      <guid>https://ttoommmmiiee.github.io/posts/testpost/</guid>
-      <description>var = 0 </description>
-    </item>
-    
-    <item>
-      <title>Testpost COPY</title>
-      <link>https://ttoommmmiiee.github.io/posts/testpost-copy-4/</link>
-      <pubDate>Fri, 18 Nov 2022 15:13:03 +0000</pubDate>
-      
-      <guid>https://ttoommmmiiee.github.io/posts/testpost-copy-4/</guid>
-      <description>var = 0 </description>
-    </item>
-    
-    <item>
-      <title>Testpost COPY</title>
-      <link>https://ttoommmmiiee.github.io/posts/testpost-copy/</link>
-      <pubDate>Fri, 18 Nov 2022 15:13:03 +0000</pubDate>
-      
-      <guid>https://ttoommmmiiee.github.io/posts/testpost-copy/</guid>
-      <description>var = 0 </description>
-    </item>
-    
-    <item>
-      <title>Testpost copy 2 </title>
-      <link>https://ttoommmmiiee.github.io/posts/testpost-copy-2/</link>
-      <pubDate>Fri, 18 Nov 2022 15:13:03 +0000</pubDate>
-      
-      <guid>https://ttoommmmiiee.github.io/posts/testpost-copy-2/</guid>
-      <description>var = 0 </description>
-    </item>
-    
-    <item>
-      <title>Testpost copy 2 </title>
-      <link>https://ttoommmmiiee.github.io/posts/testpost-copy-3/</link>
-      <pubDate>Fri, 18 Nov 2022 15:13:03 +0000</pubDate>
-      
-      <guid>https://ttoommmmiiee.github.io/posts/testpost-copy-3/</guid>
-      <description>var = 0 </description>
+      <guid>https://ttoommmmiiee.github.io/posts/welcome/</guid>
+      <description>Welcome This is the first post in my blog
+H2 H3 H4 H5 Ital Bold
+Test Link
+var = Code Block </description>
     </item>
     
   </channel>
