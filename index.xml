@@ -28,21 +28,21 @@ LISTEN: Die Roboter Rubato: Piano interpretations of Kraftwerk titles by Terre T
     </item>
     
     <item>
-      <title></title>
-      <link>https://ttoommmmiiee.github.io/posts/image-test-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ttoommmmiiee.github.io/posts/image-test-post/</guid>
-      <description>`</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://ttoommmmiiee.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ttoommmmiiee.github.io/about/</guid>
       <description>I am a sound artist, creative technologist, and educator working with sound using technology. I am the co-founder of Black Shuck Co-operative, a company that produces moving image, audio and digital projects. I also work with young people in a range of settings, producing artworks and delivering training. I am on the MRes Creative Computing course at UAL.</description>
+    </item>
+    
+    <item>
+      <title>Image Test Post</title>
+      <link>https://ttoommmmiiee.github.io/posts/image-test-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoommmmiiee.github.io/posts/image-test-post/</guid>
+      <description>This is a test to see how images look </description>
     </item>
     
   </channel>
