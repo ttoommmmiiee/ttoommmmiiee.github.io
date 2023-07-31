@@ -6,7 +6,16 @@
     <description>Recent content on Tommie Introna: Sound Specialist, Creative Technologist &amp; Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2023 18:35:46 +0000</lastBuildDate><atom:link href="https://ttoommmmiiee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jul 2023 09:21:51 +0000</lastBuildDate><atom:link href="https://ttoommmmiiee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Test Post</title>
+      <link>https://ttoommmmiiee.github.io/posts/image-test-post/</link>
+      <pubDate>Fri, 28 Jul 2023 09:21:51 +0000</pubDate>
+      
+      <guid>https://ttoommmmiiee.github.io/posts/image-test-post/</guid>
+      <description>This is a test to see how images look </description>
+    </item>
+    
     <item>
       <title>Reflection on the lamenting voice</title>
       <link>https://ttoommmmiiee.github.io/posts/reflection-on-the-lamenting-voice/</link>
@@ -35,15 +44,6 @@ LISTEN: Die Roboter Rubato: Piano interpretations of Kraftwerk titles by Terre T
       <guid>https://ttoommmmiiee.github.io/about/</guid>
       <description>I am a sound artist, creative technologist, and educator working with sound using technology. I am the co-founder of Black Shuck Co-operative, a company that produces moving image, audio and digital projects. I also work with young people in a range of settings, producing artworks and delivering training. I am on the MRes Creative Computing course at UAL.
 Work with me! With over 10 years of experience working in art, technology and education, i&amp;rsquo;ve done a bit of everything and I am open to new opportunities to collaborate.</description>
-    </item>
-    
-    <item>
-      <title>Image Test Post</title>
-      <link>https://ttoommmmiiee.github.io/posts/image-test-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ttoommmmiiee.github.io/posts/image-test-post/</guid>
-      <description>This is a test to see how images look </description>
     </item>
     
   </channel>
