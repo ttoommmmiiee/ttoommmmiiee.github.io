@@ -16,5 +16,15 @@
       <description>These are a few experiments I did in 2022 exploring the rhythmic qualities of dripping taps. I was inspired by the Water Drip Drum made by Ellen Fullman circa 1985. Her design involved a bucket filled with water with several different taps through which the water can drain. Depending on the tightness of the taps, the water drips onto other metal buckets below at certain rates, causing a resonant percussive sound.</description>
     </item>
     
+    <item>
+      <title>Assembly - Somerset House Studios</title>
+      <link>https://ttoommmmiiee.github.io/posts/assembly-2019-2020-somerset-house-studios/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoommmmiiee.github.io/posts/assembly-2019-2020-somerset-house-studios/</guid>
+      <description>In 2019, I collaborated with musicians and artists Beatrice Dillon, Haroon Mirza and, John Butcher &amp;amp; Lasse Marhaug for Somerset House Studios’ annual ASSEMBLY festival. I developed custom musical tools for each artist using Max/MSP, Wekinator and Touch OSC. The tools enabled the musicians to interface with sound and data from outside the performance venue and work with a large multichannel surround sound setup. https://www.somersethouse.org.uk/whats-on/assembly-christian-marclay
+For ASSEMBLY 2020, I worked with Somerset House Studio to programme a bespoke online platform for presenting 360 spatialised audio in an interactive and immersive format.</description>
+    </item>
+    
   </channel>
 </rss>
