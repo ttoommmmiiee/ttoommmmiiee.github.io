@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Tommie Introna: Sound Specialist, Creative Technologist &amp; Researcher</title>
-    <link>https://ttoommmmiiee.github.io/posts/</link>
-    <description>Recent content in Posts on Tommie Introna: Sound Specialist, Creative Technologist &amp; Researcher</description>
+    <title>portfolio on Tommie Introna: Sound Specialist, Creative Technologist &amp; Researcher</title>
+    <link>https://ttoommmmiiee.github.io/tags/portfolio/</link>
+    <description>Recent content in portfolio on Tommie Introna: Sound Specialist, Creative Technologist &amp; Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ttoommmmiiee.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ttoommmmiiee.github.io/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Womb of things to be and tomb of things that were</title>
       <link>https://ttoommmmiiee.github.io/posts/womb-of-things-to-be-and-tomb-of-things-that-were/</link>
@@ -14,26 +14,6 @@
       
       <guid>https://ttoommmmiiee.github.io/posts/womb-of-things-to-be-and-tomb-of-things-that-were/</guid>
       <description>A still from the film &amp;#39;Womb of things to be and tomb of things that were&amp;#39; by Marleen Boschen and Charles Pryor &amp;lsquo;Womb of things to be and tomb of things that were&amp;rsquo; is a film by Charles Pryor and Marleen Boschen that explores collaborative survival, containment and vulnerability through seeds. Via episodic, speculative storytelling we follow seed banking and saving practices across the globe from the Millennium Seed Bank and the John Innes Centre in the UK, to a forest gene bank in Poland and a food sovereignty organisation in Palestine.</description>
-    </item>
-    
-    <item>
-      <title>Reflection on the lamenting voice</title>
-      <link>https://ttoommmmiiee.github.io/posts/reflection-on-the-lamenting-voice/</link>
-      <pubDate>Wed, 29 Mar 2023 18:35:46 +0000</pubDate>
-      
-      <guid>https://ttoommmmiiee.github.io/posts/reflection-on-the-lamenting-voice/</guid>
-      <description>Recently I watched a talk by Eleni Ikoniadou in which she presented her recent work Future Chrous. https://schedule.mozillafestival.org/session/QTHPSU-1
-She discussed how in western thinking, speech is often taken as a marker of human inteligence. For Aristottle via Heidegger - man is a political speaking animal, a being who has a language which addresses and discusses its world. For the Greeks, voice without speech was considered irrational and dangerous associated with female, animal, disabled and non-human entities</description>
-    </item>
-    
-    <item>
-      <title>I am not a Rubato</title>
-      <link>https://ttoommmmiiee.github.io/posts/i-am-not-a-rubato/</link>
-      <pubDate>Tue, 22 Nov 2022 12:11:15 +0000</pubDate>
-      
-      <guid>https://ttoommmmiiee.github.io/posts/i-am-not-a-rubato/</guid>
-      <description>In 1997, artist and music producer Terre Thaemlitz released her album Die Roboter under the moniker Rubato. The album comprises piano interpretations of classic Kraftwerk titles. On first listen, the piano rendition sounds like a live performance by a talented and expressive pianist, playing a real piano with rich acoustic tones. The only sonic hint of manipulation is the noise that washes over the piano playing.
-LISTEN: Die Roboter Rubato: Piano interpretations of Kraftwerk titles by Terre Thaemlitz</description>
     </item>
     
     <item>
@@ -63,6 +43,15 @@ LISTEN: Die Roboter Rubato: Piano interpretations of Kraftwerk titles by Terre T
       <description>CLICK HERE TO LISTEN
 The poster produced for the live recording of &amp;#39;The Retoucher&amp;#39; podcast In 2019, I co-developed and produced a science-fiction podcast for BBC Sounds titled The Retoucher in which I used sound as a central world building tool. I used experimental recording methods to rig a club venue with microphones which captured the actors and DJ’s performances in-situ over the course of an evening.
 Binaural dummy head microphone recording ambiences in the smoking area behind the club.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://ttoommmmiiee.github.io/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoommmmiiee.github.io/portfolio/</guid>
+      <description>A selection of work that I have worked on over the years.</description>
     </item>
     
   </channel>
