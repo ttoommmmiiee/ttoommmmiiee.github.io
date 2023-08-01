@@ -6,7 +6,17 @@
     <description>Recent content on Tommie Introna: Sound Specialist, Creative Technologist &amp; Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2023 09:21:51 +0000</lastBuildDate><atom:link href="https://ttoommmmiiee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ttoommmmiiee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Water Drip Trig</title>
+      <link>https://ttoommmmiiee.github.io/posts/water-drip-trig/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoommmmiiee.github.io/posts/water-drip-trig/</guid>
+      <description>These are a few experiments I did exploring the rhythmic qualities of dripping taps. I was inspired by the Water Drip Drum made by Ellen Fullman circa 1985. Her design involved a bucket filled with water with several different taps through which the water can drain. Depending on the tightness of the taps, the water drips onto other metal buckets below, causing a resonant percussive sound.
+The dripping tap is a classic example of a chaotic system.</description>
+    </item>
+    
     <item>
       <title>Womb of things to be and tomb of things that were</title>
       <link>https://ttoommmmiiee.github.io/posts/womb-of-things-to-be-and-tomb-of-things-that-were/</link>
@@ -44,16 +54,6 @@ LISTEN: Die Roboter Rubato: Piano interpretations of Kraftwerk titles by Terre T
       <guid>https://ttoommmmiiee.github.io/about/</guid>
       <description>I am a sound artist, creative technologist, and educator working with sound using technology. I co-founded Black Shuck Co-operative, which produces moving image, audio and digital projects. I also work with young people in various settings, producing artworks and delivering training. I am completing an MRes Creative Computing course at the University of the Arts London (2022-2023).
 Work with me! With over 10 years of experience working in art, technology and education, I&amp;rsquo;ve done a bit of everything and am open to new opportunities to collaborate.</description>
-    </item>
-    
-    <item>
-      <title>Water Drip Trig</title>
-      <link>https://ttoommmmiiee.github.io/posts/water-drip-trig/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ttoommmmiiee.github.io/posts/water-drip-trig/</guid>
-      <description>These are a few experiments I did exploring the rhythmic qualities of dripping taps. I was inspired by the Water Drip Drum made by Ellen Fullman circa 1985. Her design involved a bucket filled with water with several different taps through which the water can drain. Depending on the tightness of the taps, the water drips onto other metal buckets below, causing a resonant percussive sound.
-The dripping tap is a classic example of a chaotic system.</description>
     </item>
     
   </channel>
