@@ -25,5 +25,15 @@
       <description>A selection of work that I have worked on over the years.</description>
     </item>
     
+    <item>
+      <title>Water Drip Trig</title>
+      <link>https://ttoommmmiiee.github.io/posts/water-drip-trig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoommmmiiee.github.io/posts/water-drip-trig/</guid>
+      <description>These are a few experiments I did exploring the rhythmic qualities of dripping taps. I was inspired by the Water Drip Drum made by Ellen Fullman circa 1985. Her design involved a bucket filled with water with several different taps through which the water can drain. Depending on the tightness of the taps, the water drips onto other metal buckets below, causing a resonant percussive sound.
+The dripping tap is a classic example of a chaotic system.</description>
+    </item>
+    
   </channel>
 </rss>
